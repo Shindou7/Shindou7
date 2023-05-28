@@ -1,16 +1,14 @@
 ### Hi there 👋
+Shindou93/README.md
 
-<!--
-**Shindou93/Shindou93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Github Stats
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  👋 Hi, I’m shindou
+- 🔭 I’m interested in developing IoT systems.
+- 🌱 I’m currently learning mobile application testing
+- 📫 You can reach me through EMAIL.
 -->
+osala-eng/README.md
+
+Github stats Top Languages Card
+
