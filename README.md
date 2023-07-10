@@ -6,9 +6,9 @@ Github Stats
   👋 Hi, I’m shindou
 - 🔭 I’m interested in developing IoT systems.
 - 🌱 I’m currently learning mobile application testing
-- 📫 You can reach me through EMAIL.
+- 📫 You can reach me through email.
 -->
-osala-eng/README.md
+  shindou/README.md
 
 Github stats Top Languages Card
 
